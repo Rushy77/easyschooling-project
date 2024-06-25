@@ -1,2 +1,2 @@
-# easyschooling-ui-project
-EasySchooling UI project
+# easyschooling-project
+EasySchooling project
